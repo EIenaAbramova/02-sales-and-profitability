@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-16",
+  "native_save": true,
+  "native_reopen": true,
+  "ordinary_click_without_modifiers": true,
+  "metrics_checked": [
+    "Выручка",
+    "Прибыль",
+    "АКБ",
+    "Средний чек",
+    "Рентабельность",
+    "Затраты на логистику"
+  ],
+  "black_indicator_moves": true,
+  "charts_switch": true,
+  "date_filter_preserved": "01.01.2022–31.01.2022 при переключении рентабельность → средний чек",
+  "restored_period": "01.01.2022–30.04.2022",
+  "reopen_clicks": [
+    "Выручка",
+    "Средний чек"
+  ],
+  "model_measures": 32,
+  "pbix_bytes": 363579,
+  "sha256": "e9d73d125284c289da337cb9190831a74c00748a705a875444593c21f593b5cd",
+  "independent_python_summary": {
+    "Revenue": 1103256.31,
+    "Profit": 253784.61,
+    "Margin": 0.2300323213197847,
+    "Customers": 173,
+    "Orders": 571,
+    "AOV": 1932.14765323993,
+    "Shipping": 4405,
+    "Lines": 730
+  },
+  "independent_python_abc": [
+    {
+      "ABC": "A",
+      "Products": 114,
+      "Revenue": 883261.44,
+      "Profit": 157930.67,
+      "Margin": 0.17880399035646796,
+      "Customers": 108,
+      "Orders": 198,
+      "AOV": 4460.916363636364,
+      "Shipping": 1370,
+      "Lines": 218
+    },
+    {
+      "ABC": "B",
+      "Products": 123,
+      "Revenue": 165427.65,
+      "Profit": 9014.16,
+      "Margin": 0.0544900444393667,
+      "Customers": 115,
+      "Orders": 203,
+      "AOV": 814.9145320197044,
+      "Shipping": 1330,
+      "Lines": 214
+    },
+    {
+      "ABC": "C",
+      "Products": 208,
+      "Revenue": 54567.22,
+      "Profit": 86839.78,
+      "Margin": 1.591427600673078,
+      "Customers": 129,
+      "Orders": 270,
+      "AOV": 202.1008148148148,
+      "Shipping": 1705,
+      "Lines": 298
+    }
+  ]
+}
